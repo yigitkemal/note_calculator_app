@@ -41,6 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Widget uygulamaGovdesi() {
     return Container(
+      color: Colors.blue,
       padding: EdgeInsets.only(top: 70),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
